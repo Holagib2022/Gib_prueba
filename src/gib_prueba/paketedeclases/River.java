@@ -13,6 +13,7 @@ public class River {
     private int hinchas;
     private String ubicacion;
     private String estadio;
+    private int socios;
 
     public River(int hinchas, String ubicacion) {
         this.hinchas = hinchas;
