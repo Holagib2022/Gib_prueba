@@ -12,6 +12,7 @@ package gib_prueba.paketedeclases;
 public class River {
     private int hinchas;
     private String ubicacion;
+    private String estadio;
 
     public River(int hinchas, String ubicacion) {
         this.hinchas = hinchas;
